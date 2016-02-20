@@ -1,14 +1,12 @@
-## Tarea Inicial
+Tareas iniciales - PPLL
+-----------------------
 
-Configuración de las herramientas y tecnologías a utilizar en la asignatura Sistemas y Tecnologías Webs.
+En este tutorial se explica la instalación y uso de las siguientes herramientas
 
-* NodeJS
-* Express
-* Atom
-* GitHub
-* Cloud9
-* Markdown
+  * NodeJS
+  * Express
+  * Git
+  * Pandoc 
 
-[Página personal de prácticas](http://alu0100536652.github.io/)
-
-[Página de la práctica inicial](http://alu0100536652.github.io/Tutorial-STW/)
+[Página de prácticas del autor](alu0100825503.github.io)  
+[Tutorial en MarkDown](http://alu0100825503.github.io/tutorial/tutorial.md.html) (generado con Atom)
